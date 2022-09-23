@@ -19,10 +19,11 @@ ul {
     padding: 0;
     width: 20%;
     background-color: #f1f1f1;
-    position: sticky;
-    height: 100%;
+    position: top;
+    height: auto;
     overflow: auto;
-  }
+    padding-bottom: 300px;
+}
 
   
 li a {
@@ -40,4 +41,11 @@ li a.active {
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
+}
+
+img {
+    height: 300px;
+    width: 400px;
+
+    
 }
