@@ -66,3 +66,8 @@ li a:hover:not(.active) {
 	padding: 0px;
     box-shadow: 7px 7px 5px black;
 }
+
+#kleinertext{
+    font-size: small;
+    padding-right: 55px;
+}
