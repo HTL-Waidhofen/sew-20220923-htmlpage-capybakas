@@ -39,10 +39,6 @@ ul {
     overflow: auto;
     padding-bottom: 300px;
     box-shadow: 7px 7px 5px black;
-<<<<<<< HEAD
-=======
-    padding-bottom: auto;
->>>>>>> e27c3729a3254da8c949a7e8fe56263666db2992
 
 }
 
@@ -77,7 +73,6 @@ li a:hover:not(.active) {
     box-shadow: 7px 7px 5px black;
 }
 
-<<<<<<< HEAD
 footer {
 	text-align: center;
     color: black;
@@ -85,9 +80,9 @@ footer {
 	background-position: center; 
     font-family: comic sans ms;
     padding: 10px;
-=======
+}
+
 #kleinertext{
     font-size: small;
     padding-right: 55px;
->>>>>>> e27c3729a3254da8c949a7e8fe56263666db2992
 }
