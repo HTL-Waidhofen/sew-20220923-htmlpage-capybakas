@@ -37,8 +37,12 @@ ul {
     position: top;
     height: auto;
     overflow: auto;
+<<<<<<< HEAD
     padding-bottom: 300px;
     box-shadow: 7px 7px 5px black;
+=======
+    padding-bottom: auto;
+>>>>>>> 519f6b8adc5156b312750fb96b4772cf73217f11
 }
 
   
