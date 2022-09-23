@@ -4,13 +4,26 @@ h1{
     text-align: center;
 }
 
+header{
+	background-color:lightgreen;
+	height: 70px;
+    margin: 0px;
+}
+
 label{
     text-align: center;
     font-size: large;
 }
 
 body{
-    background-size: cover;
+    flex-grow: 3;
+	background-image:url("");
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: left;
+	padding: 50px;
+    margin: -8px;
+    height: 990px;
 }
 
 ul {
@@ -31,6 +44,7 @@ li a {
     color: #000;
     padding: 8px 16px;
     text-decoration: none;
+    font-family: fantasy;
 }
   
 li a.active {
@@ -43,9 +57,12 @@ li a:hover:not(.active) {
     color: white;
 }
 
-img {
-    height: 300px;
-    width: 400px;
-
-    
+.pic1{
+    width: 275px;
+	height: 200px;
+    border-style: inset;
+    border-width: 5px;
+    border-color: white;
+	padding: 0px;
+    box-shadow: 7px 7px 5px black;
 }
