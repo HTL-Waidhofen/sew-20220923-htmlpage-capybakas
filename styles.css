@@ -9,6 +9,7 @@ header{
 	background-color:lightgreen;
 	height: 70px;
     margin: 0px;
+    text-align: center;
 
 }
 
@@ -18,7 +19,6 @@ label{
 }
 
 body{
-    flex-grow: 3;
 	background-image:url("");
     background-repeat: no-repeat;
     background-size:cover;
@@ -37,12 +37,9 @@ ul {
     position: top;
     height: auto;
     overflow: auto;
-<<<<<<< HEAD
     padding-bottom: 300px;
     box-shadow: 7px 7px 5px black;
-=======
-    padding-bottom: auto;
->>>>>>> 519f6b8adc5156b312750fb96b4772cf73217f11
+
 }
 
   
@@ -74,4 +71,13 @@ li a:hover:not(.active) {
     border-color: white;
 	padding: 0px;
     box-shadow: 7px 7px 5px black;
+}
+
+footer {
+	text-align: center;
+    color: black;
+    background-size: cover;
+	background-position: center; 
+    font-family: comic sans ms;
+    padding: 10px;
 }
