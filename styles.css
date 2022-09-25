@@ -49,14 +49,8 @@ ul {
     overflow: auto;
     padding-bottom: 300px;
     box-shadow: 7px 7px 5px black;
-<<<<<<< HEAD
-=======
     padding-bottom: auto;
-<<<<<<< HEAD
     float: left;
-=======
->>>>>>> 1babf33751636a83dac4017ec5673be696503848
->>>>>>> b58735e99bd307319265ca3e7803cdd2b1ceb542
 
 }
 
@@ -99,13 +93,7 @@ footer {
   font-family: comic sans ms;
   padding: 10px;
 }
-<<<<<<< HEAD
 
-#kleinertext{
-    font-size: small;
-    padding-right: 55px;
-}
-=======
 #kleinertext{
   font-size: small;
   padding-left: 320px;
@@ -166,4 +154,3 @@ footer {
       display: block;
     }
   }
->>>>>>> 1babf33751636a83dac4017ec5673be696503848
