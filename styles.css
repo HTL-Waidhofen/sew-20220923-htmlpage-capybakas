@@ -14,7 +14,6 @@ header{
 }
 
 
-
 #MainText{
   font-size: 15.5px;
 }
@@ -22,6 +21,20 @@ header{
 label{
     text-align: center;
     font-size: x-large;
+}
+
+#allgeListe{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 20%;
+  background-color: #f1f1f1;
+  position: top;
+  height: auto;
+  overflow: auto;
+  box-shadow: 7px 7px 5px black;
+  padding-bottom: auto;
+  float: left;
 }
 
 body{
@@ -39,18 +52,18 @@ body{
 }
 
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 20%;
-    background-color: #f1f1f1;
-    position: top;
-    height: auto;
-    overflow: auto;
-    padding-bottom: 300px;
-    box-shadow: 7px 7px 5px black;
-    padding-bottom: auto;
-    float: left;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 20%;
+  background-color: #f1f1f1;
+  position: top;
+  height: auto;
+  overflow: auto;
+  padding-bottom: 300px;
+  box-shadow: 7px 7px 5px black;
+  padding-bottom: auto;
+  float: left;
 
 }
 
