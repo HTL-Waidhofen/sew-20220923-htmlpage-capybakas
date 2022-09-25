@@ -13,6 +13,10 @@ header{
 
 }
 
+#MainText{
+  font-size: 15.5px;
+}
+
 label{
     text-align: center;
     font-size: x-large;
@@ -28,6 +32,10 @@ body{
     height: 990px;
 }
 
+#indexbild{
+  padding-left: 250px ;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -40,6 +48,7 @@ ul {
     padding-bottom: 300px;
     box-shadow: 7px 7px 5px black;
     padding-bottom: auto;
+    float: left;
 
 }
 
