@@ -81,6 +81,7 @@ li a {
 li a.active {
   background-color: #04AA6D;
   color: white;
+  
 }
   
 li a:hover:not(.active) {
@@ -166,4 +167,11 @@ footer {
       width: 100%;
       display: block;
     }
+  }
+
+  .newsletter label{
+    margin: 10px;
+  }
+  .newsletter input{
+    margin:10px;
   }
