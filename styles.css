@@ -109,9 +109,11 @@ footer {
 }
 
 #kleinertext{
-  font-size: small;
+  font-size: xx-large;
   padding-left: 320px;
+  text-align: center;
 }
+
 
 .column {
   float: left;
