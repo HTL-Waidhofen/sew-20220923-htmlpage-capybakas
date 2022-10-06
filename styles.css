@@ -2,24 +2,18 @@
 
 h1{
     font-size: 300%;
-    font-family: fantasy;
+    font-family: 'Brush Script MT', cursive;
     text-align: center;
     color: rgb(255, 255, 255);
     
 }
 
 header{
-<<<<<<< HEAD
-	  background-color:rgb(0, 207, 0);
-	  height: 70px;
-    margin: 0px;
-    text-align: center;
-=======
-	background-color:lightgreen;
+  background-color: #066e25;
 	height: 70px;
   margin: 0px;
   text-align: center;
->>>>>>> 2624383c02a8bd25761e38c66429332cf6341938
+  
 
 }
 
@@ -31,20 +25,6 @@ header{
 label{
     text-align: center;
     font-size: x-large;
-}
-
-#allgeListe{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 20%;
-  background-color: #f1f1f1;
-  position: top;
-  height: auto;
-  overflow: auto;
-  box-shadow: 7px 7px 5px black;
-  padding-bottom: auto;
-  float: left;
 }
 
 body{
@@ -61,20 +41,19 @@ body{
   padding-left: 250px ;
 }
 
-<<<<<<< HEAD
 nav{
   position: relative;
+  font-family: 'Brush Script MT', cursive;
   margin: 10px auto 0;
-  width: 1200px;
+  width: 1400px;
   height: 50px;
-  background: #161616;
+  background: #39393d;
   border-radius: 7px;
-  font-size: 0px;
+  font-size: 7px;
   box-shadow: 0 2px 3px 0 rgba(0,0,0,.1);
 }
 nav a{
-  font-family: fantasy;
-  font-size: 20px;
+  font-size: 16px;
   text-transform: uppercase;
   color: white;
   text-decoration: none;
@@ -90,7 +69,7 @@ nav .animation{
   top: 0;
   bottom: 0;
   z-index: 0;
-  background: rgb(0, 207, 0);
+  background: #066e25;
   border-radius: 8px;
   transition: all .5s ease 0s;
 }
@@ -108,44 +87,6 @@ nav a:nth-child(2){
 nav a:nth-child(2):hover~.animation{
   width: 200px;
   left: 200px;
-=======
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 20%;
-  background-color: #f1f1f1;
-  position: top;
-  height: auto;
-  overflow: auto;
-  padding-bottom: 300px;
-  box-shadow: 7px 7px 5px black;
-  padding-bottom: auto;
-  float: left;
-
-}
-
-  
-li a {
-  display: block;
-  color: #000;
-  padding: 8px 16px;
-  text-decoration: none;
-  font-family: fantasy;
-  font-size: x-large;
-    
-}
-  
-li a.active {
-  background-color: #04AA6D;
-  color: white;
-  
-}
-  
-li a:hover:not(.active) {
-  background-color: #555;
-  color: white;
->>>>>>> 2624383c02a8bd25761e38c66429332cf6341938
 }
 nav a:nth-child(3){
   width: 200px;
@@ -179,6 +120,14 @@ nav a:nth-child(6):hover~.animation{
   width: 200px;
   left: 1000px;
 }
+nav a:nth-child(7){
+  width: 200px;
+}
+
+nav a:nth-child(7):hover~.animation{
+  width: 200px;
+  left: 1200px;
+}
 
 
 .pic1{
@@ -199,18 +148,12 @@ footer {
   font-family: comic sans ms;
   padding: 10px;
 }
-<<<<<<< HEAD
-#kleinertext{
-    font-size: small;
-    padding-right: 55px;
-=======
 
 #kleinertext{
   font-size: xx-large;
   padding-left: 320px;
   text-align: center;
 }
->>>>>>> 2624383c02a8bd25761e38c66429332cf6341938
 
 
 .column {
@@ -268,8 +211,6 @@ footer {
       display: block;
     }
   }
-<<<<<<< HEAD
-=======
 
   .newsletter label{
     margin: 10px;
@@ -277,4 +218,3 @@ footer {
   .newsletter input{
     margin:10px;
   }
->>>>>>> 2624383c02a8bd25761e38c66429332cf6341938
