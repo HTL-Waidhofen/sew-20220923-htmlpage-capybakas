@@ -27,7 +27,7 @@ label{
 
 body{
 	background-image:url("");
-  background-color: rgba(212, 207, 207, 0.993);
+  background-color: white;
   background-repeat: no-repeat;
   background-size:cover;
   text-align: left;
@@ -37,9 +37,18 @@ body{
 }
 
 
-#home-Bild1{
+#allg-Bild1{
   width: 30%;
 	height: 30%;
+	padding: 0px;
+  box-shadow: 7px 7px 5px rgb(0, 0, 0);
+  margin-left: 650px;
+  
+}
+
+#home-Bild1{
+  width: 30%;
+	height: 40%;
 	padding: 0px;
   box-shadow: 7px 7px 5px rgb(0, 0, 0);
   margin-left: 650px;
